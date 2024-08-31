@@ -1,6 +1,6 @@
 # Hier gibt es ein paar Taubeninfos
 
-Die PDF-Datei gibt es [hier](utils/Taubenpaepplerkurs.pdf). 
+Die PDF-Datei gibt es [hier](https://github.com/gnuvercin/Taubeninformationen/blob/pigeon/utils/Taubenpaepplerkurs.pdf). 
 
 # Taubenpäpplerkurs 2019  
 in der  
